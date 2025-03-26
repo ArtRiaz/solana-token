@@ -1,5 +1,6 @@
 {
-  "name": "Artem Test Token",
-  "symbol": "ART",
-  "description": "This is Artem's test token with on-chain metadata"
-}
+    "name": "REAL",
+    "symbol": "REAL",
+    "description": "token from Solana Making a Token guide.",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  }
