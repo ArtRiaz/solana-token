@@ -1,6 +1,6 @@
 {
-    "name": "REAL",
-    "symbol": "REAL",
+    "name": "RJS",
+    "symbol": "RJS",
     "description": "token from Solana Making a Token guide.",
     "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
   }
